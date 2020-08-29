@@ -55,11 +55,11 @@ echo $cy"║"$ku "  UPLOAD  : 29 AGUSTUS 2020  "$cy"║"
 echo $cy"║"$ku "  TYPE    : INSTALLER        "$cy"║"
 echo $cy"╚══════════════════════════════╝"
 echo
-echo $pur"[⌛].DATE  : "
+echo $pu"[⌛].DATE  : "
 echo "╔════════════╗"
 date +║" %D   ║ "
 echo "╚════════════╝"
-echo $pur"[⏳].TIME"
+echo $pu"[⏳].TIME"
 echo "╔═════════════════╗"
 date +║"%T         ║"
 echo "╚═════════════════╝"
@@ -172,9 +172,9 @@ sleep 0.2
 echo $cy"[e].EXIT TOOLS"
 sleep 0.2
 echo
-echo $me"╭─[follow @bangbrazzer]"
+echo $me"╭─[follow IG @maz_rizal.id]"
 sleep 0.2
-read -p "╰─|wira >> " pil;
+read -p "╰─|mr.r1z4l >> " pil;
 if [ $pil = 1 ]
 then
 clear
