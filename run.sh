@@ -65,7 +65,7 @@ date +║"%T         ║"
 echo "╚═════════════════╝"
 echo
 echo $pu"╔══════════════════════════════════════╗"
-echo $pu"║"$i" https://github.com/mazrizal-id"  $pu"║"
+echo $pu"║"$i" https://github.com/mazrizal-id "$pu"║"
 echo $pu"╚══════════════════════════════════════╝"
 echo
 sleep 0.2
@@ -76,7 +76,7 @@ echo $pu"╔══════════════════════�
 echo $pu"║"$i"[c]. CHAT ADMIN VIA WHATSAPP "$pu"║"
 echo $pu"╚═════════════════════════════╝"
 echo $pu"╔═════════════════════════════╗"
-echo $pu"|"$i"[v]. UNMARSHAL PYTHON vip"  $pu"║"
+echo $pu"|"$i"[v]. MY FACEBOOK "$pu"║"
 echo $pu"╚═════════════════════════════╝"
 echo
 sleep 0.2
@@ -395,6 +395,6 @@ if [ $pil = v ]
 then
 echo $i"sedang menginstall..."
 sleep 1
-am start http://bit.do/e4iHD
+am start https://facebook.com/mazrizal.id
 clear
 fi
