@@ -1,5 +1,5 @@
 #Create By Rizal
-#https://github.com/mazrizal15
+#https://github.com/mazrizal-id
 clear
 bi='[34;1m' #biru
 i='[32;1m' #ijo
@@ -50,7 +50,7 @@ fi
 clear
 clear
 echo $cy"╔══════════════════════════════╗"
-echo $cy"║"$ku "  AUTHOR  : RIZAL             "$cy"║"
+echo $cy"║"$ku "  AUTHOR  : RIZAL            "$cy"║"
 echo $cy"║"$ku "  UPLOAD  : 29 AGUSTUS 2020  "$cy"║"
 echo $cy"║"$ku "  TYPE    : INSTALLER        "$cy"║"
 echo $cy"╚══════════════════════════════╝"
@@ -65,7 +65,7 @@ date +║"%T         ║"
 echo "╚═════════════════╝"
 echo
 echo $pu"╔══════════════════════════════════════╗"
-echo $pu"║"$i" https://github.com/mazrizal15           " $pu"║"
+echo $pu"║"$i" https://github.com/mazrizal-id"  $pu"║"
 echo $pu"╚══════════════════════════════════════╝"
 echo
 sleep 0.2
@@ -76,7 +76,7 @@ echo $pu"╔══════════════════════�
 echo $pu"║"$i"[c]. CHAT ADMIN VIA WHATSAPP "$pu"║"
 echo $pu"╚═════════════════════════════╝"
 echo $pu"╔═════════════════════════════╗"
-echo $pu"|"$i"[v]. UNMARSHAL PYTHON vip"$pu"    |"
+echo $pu"|"$i"[v]. UNMARSHAL PYTHON vip"  $pu"║"
 echo $pu"╚═════════════════════════════╝"
 echo
 sleep 0.2
